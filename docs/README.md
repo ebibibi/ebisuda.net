@@ -4,18 +4,23 @@ title: WEBI
 heroImage: https://0.gravatar.com/avatar/6d1b435a74677ddddc346307eed74660e1ba04f2ddaea5cb821e2ae39f413df0?s=400&d=mm
 heroText: WEBI
 navbar: false
+sidebar: 'heading'
 ---
+ここ ebisuda.net は、胡田昌彦が運営するWEBサイトであり胡田昌彦が運営する各種のサイトへのリンク集となっています。
+
+
 
 ## [胡田(えびすだ)のコンピューター系チャンネル](https://www.youtube.com/@ebibibi)
-
 Windows, Azure, Microsoft 365等を中心としたコンピューター系の情報を動画で発信しています。
 
 ## [Discord](https://discord.gg/h9eVunUEyU)
-
 Youtubeチャンネルを見て興味を持ってくれた人を中心に、チャットで簡単にコミュニケーションを取れるようになっています。
 
 ## [【書籍】Windows インフラ管理者入門](https://amzn.to/3PvYqWG)
 2014年2月に書籍を単著で出版しました。
+
+## [Microsoft MVP プロファイル](https://mvp.microsoft.com/ja-JP/mvp/profile/959007f9-3c9a-e411-93f2-9cb65495d3c4)
+胡田昌彦は2014年からMicrosoft MVPを10年以上連続受賞しています。
 
 ## [胡田昌彦のnote](https://note.com/ebibibi)
 noteでは文字情報を発信しています。こちらもコンピューター系の情報が中心です。
