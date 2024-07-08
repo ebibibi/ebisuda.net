@@ -5,10 +5,12 @@ heroImage: https://0.gravatar.com/avatar/6d1b435a74677ddddc346307eed74660e1ba04f
 heroText: WEBI
 navbar: false
 sidebar: 'heading'
+actions:
+  - text: 胡田に連絡する
+    link: mailto:ebibibi@gmail.com
+    type: primary
 ---
 ここ ebisuda.net は、胡田昌彦が運営するWEBサイトであり胡田昌彦が運営する各種のサイトへのリンク集となっています。
-
-
 
 ## [胡田(えびすだ)のコンピューター系チャンネル](https://www.youtube.com/@ebibibi)
 Windows, Azure, Microsoft 365等を中心としたコンピューター系の情報を動画で発信しています。
