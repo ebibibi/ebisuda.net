@@ -31,10 +31,6 @@ noteでは文字情報を発信しています。こちらもコンピュータ�
 
 昔からずっと書いている日記です。日々の出来事や思ったことなどを書いています。
 
-## [胡田のObsidian](https://obsidian.ebisuda.net)
-
-Obsidianで作成したメモを公開しています。
-
 ## [胡田昌彦の音楽チャンネル](https://www.youtube.com/channel/UCgKek_Bu1t_gJ83ABfLBwBQ)
 
 自分の音楽の成長記録を記録しているチャンネルです。エレキベース、ドラム、自作曲など。
