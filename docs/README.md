@@ -15,8 +15,8 @@ actions:
 ## [胡田(えびすだ)のコンピューター系チャンネル](https://www.youtube.com/@ebibibi)
 Windows, Azure, Microsoft 365等を中心としたコンピューター系の情報を動画で発信しています。
 
-## [YouTube動画検索](https://ebibibi.github.io/yt-channel-navigator/)
-Youtubeの動画名や字幕情報を元に動画を検索できるサイトです。
+## [エビちゃんねる ナビゲーター](https://ebibibi.github.io/yt-channel-navigator/)
+エビちゃんねるの全動画の字幕を検索できるサイトです。キーワードで検索して該当シーンから直接視聴できます。
 
 ## [Discord](https://discord.gg/h9eVunUEyU)
 Youtubeチャンネルを見て興味を持ってくれた人を中心に、チャットで簡単にコミュニケーションを取れるようになっています。
