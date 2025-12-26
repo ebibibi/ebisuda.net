@@ -11,7 +11,7 @@ actions:
     type: primary
 ---
 
-<p class="site-description">ここ ebisuda.net は、胡田昌彦が運営するWEBサイトであり胡田昌彦が運営する各種のサイトへのリンク集となっています。</p>
+<p class="site-description">ebisuda.net は、胡田昌彦が運営するWEBサイトであり胡田昌彦が運営する各種のサイトへのリンク集となっています。</p>
 
 <div class="card-grid">
 
