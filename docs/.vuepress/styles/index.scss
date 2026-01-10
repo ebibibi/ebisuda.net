@@ -55,26 +55,54 @@
 .about-me {
   max-width: 800px;
   margin: 0 auto 1.5rem;
-  padding: 1.5rem 2rem;
   background: #f8fafc;
   border-radius: 16px;
   border-left: 4px solid #3a7bd5;
 
-  h2 {
-    margin: 0 0 1rem;
-    font-size: 1.4rem;
-    color: #1e293b;
+  summary {
+    padding: 1rem 1.5rem;
+    font-size: 1.1rem;
     font-weight: 600;
+    color: #1e293b;
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::before {
+      content: "▶";
+      font-size: 0.7rem;
+      transition: transform 0.2s ease;
+    }
+
+    &:hover {
+      color: #3a7bd5;
+    }
+  }
+
+  &[open] summary::before {
+    transform: rotate(90deg);
   }
 
   p {
     margin: 0 0 0.75rem;
+    padding: 0 1.5rem;
     font-size: 0.95rem;
     color: #475569;
     line-height: 1.8;
 
+    &:first-of-type {
+      padding-top: 0.5rem;
+    }
+
     &:last-child {
       margin-bottom: 0;
+      padding-bottom: 1.5rem;
     }
   }
 }
@@ -222,8 +250,12 @@ html.dark {
     background: #1e293b;
     border-left-color: #5a9bef;
 
-    h2 {
+    summary {
       color: #f1f5f9;
+
+      &:hover {
+        color: #5a9bef;
+      }
     }
 
     p {
