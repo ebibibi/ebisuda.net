@@ -51,6 +51,34 @@
   }
 }
 
+// About Me セクション
+.about-me {
+  max-width: 800px;
+  margin: 0 auto 1.5rem;
+  padding: 1.5rem 2rem;
+  background: #f8fafc;
+  border-radius: 16px;
+  border-left: 4px solid #3a7bd5;
+
+  h2 {
+    margin: 0 0 1rem;
+    font-size: 1.4rem;
+    color: #1e293b;
+    font-weight: 600;
+  }
+
+  p {
+    margin: 0 0 0.75rem;
+    font-size: 0.95rem;
+    color: #475569;
+    line-height: 1.8;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
 // サイト説明文
 .site-description {
   text-align: center;
@@ -190,6 +218,19 @@
 
 // ダークモード対応
 html.dark {
+  .about-me {
+    background: #1e293b;
+    border-left-color: #5a9bef;
+
+    h2 {
+      color: #f1f5f9;
+    }
+
+    p {
+      color: #94a3b8;
+    }
+  }
+
   .site-description {
     color: #94a3b8;
   }

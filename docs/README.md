@@ -11,7 +11,11 @@ actions:
     type: primary
 ---
 
-<p class="site-description">ebisuda.net は、胡田昌彦が運営するWEBサイトであり胡田昌彦が運営する各種のサイトへのリンク集となっています。</p>
+<div class="about-me">
+  <h2>胡田 昌彦（えびすだ まさひこ）</h2>
+  <p>1979年茨城県鹿嶋市生まれ。2002年3月に筑波大学 情報学群を卒業後、日本ビジネスシステムズ株式会社（JBS）に入社。Windowsインフラを中心に、数人から数万人規模の企業システムの設計・構築・運用に従事。エンジニア向けの技術サポートやトレーニング、製品検証、技術的課題のあるプロジェクトにも直接参加し、多数のイベントで登壇。</p>
+  <p>専門分野はMicrosoftサービス全般で、オンプレミス、クラウド、ハイブリッド環境からプログラミング、生成AIまで幅広くカバー。Microsoft MVPを10年以上連続受賞中。著書に「Windowsインフラ管理者入門」。現在はYouTubeチャンネルでも情報発信中。</p>
+</div>
 
 <div class="sns-icons">
   <a href="https://x.com/ebi" target="_blank" class="sns-icon" title="X (Twitter)">
