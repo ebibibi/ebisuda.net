@@ -170,6 +170,7 @@
   background: #fff;
   border-radius: 16px;
   overflow: hidden;
+  border: 2px solid #e2e8f0;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
   text-decoration: none !important;
   color: inherit;
@@ -178,6 +179,7 @@
   @media (hover: hover) {
     &:hover {
       transform: translateY(-6px);
+      border-color: #3a7bd5;
       box-shadow: 0 12px 32px rgba(58, 123, 213, 0.2);
     }
   }
@@ -299,8 +301,10 @@ html.dark {
 
   .card {
     background: #1e293b;
+    border-color: #334155;
 
     &:hover {
+      border-color: #5a9bef;
       box-shadow: 0 12px 32px rgba(0, 0, 0, 0.4);
     }
   }
