@@ -17,7 +17,7 @@ actions:
 
 <a href="https://www.youtube.com/@ebibibi" target="_blank" class="card">
   <div class="card-thumbnail">
-    <img src="/images/placeholder.svg" alt="YouTube">
+    <img src="/images/youtube-ebibibi.png" alt="YouTube">
   </div>
   <div class="card-content">
     <h3>胡田(えびすだ)のコンピューター系チャンネル</h3>
@@ -27,7 +27,7 @@ actions:
 
 <a href="https://ebibibi.github.io/yt-channel-navigator/" target="_blank" class="card">
   <div class="card-thumbnail">
-    <img src="/images/placeholder.svg" alt="ナビゲーター">
+    <img src="/images/yt-channel-navigator.png" alt="ナビゲーター">
   </div>
   <div class="card-content">
     <h3>エビちゃんねる ナビゲーター</h3>
@@ -37,7 +37,7 @@ actions:
 
 <a href="https://discord.gg/h9eVunUEyU" target="_blank" class="card">
   <div class="card-thumbnail">
-    <img src="/images/placeholder.svg" alt="Discord">
+    <img src="/images/discord.png" alt="Discord">
   </div>
   <div class="card-content">
     <h3>Discord</h3>
@@ -47,7 +47,7 @@ actions:
 
 <a href="https://amzn.to/3PvYqWG" target="_blank" class="card">
   <div class="card-thumbnail">
-    <img src="/images/placeholder.svg" alt="書籍">
+    <img src="/images/amazon-book.png" alt="書籍">
   </div>
   <div class="card-content">
     <h3>【書籍】Windows インフラ管理者入門</h3>
@@ -57,7 +57,7 @@ actions:
 
 <a href="https://mvp.microsoft.com/ja-JP/mvp/profile/959007f9-3c9a-e411-93f2-9cb65495d3c4" target="_blank" class="card">
   <div class="card-thumbnail">
-    <img src="/images/placeholder.svg" alt="MVP">
+    <img src="/images/mvp.png" alt="MVP">
   </div>
   <div class="card-content">
     <h3>Microsoft MVP プロファイル</h3>
@@ -67,7 +67,7 @@ actions:
 
 <a href="https://note.com/ebibibi" target="_blank" class="card">
   <div class="card-thumbnail">
-    <img src="/images/placeholder.svg" alt="note">
+    <img src="/images/note.png" alt="note">
   </div>
   <div class="card-content">
     <h3>胡田昌彦のnote</h3>
@@ -77,7 +77,7 @@ actions:
 
 <a href="https://diary.ebisuda.net" target="_blank" class="card">
   <div class="card-thumbnail">
-    <img src="/images/placeholder.svg" alt="日記">
+    <img src="/images/diary.png" alt="日記">
   </div>
   <div class="card-content">
     <h3>えび日記</h3>
@@ -87,7 +87,7 @@ actions:
 
 <a href="https://www.youtube.com/channel/UCgKek_Bu1t_gJ83ABfLBwBQ" target="_blank" class="card">
   <div class="card-thumbnail">
-    <img src="/images/placeholder.svg" alt="音楽">
+    <img src="/images/youtube-music.png" alt="音楽">
   </div>
   <div class="card-content">
     <h3>胡田昌彦の音楽チャンネル</h3>
@@ -97,7 +97,7 @@ actions:
 
 <a href="https://www.youtube.com/channel/UCb2h5Jqh3SWOVwV8AUUgPpw" target="_blank" class="card">
   <div class="card-thumbnail">
-    <img src="/images/placeholder.svg" alt="将棋">
+    <img src="/images/youtube-shogi.png" alt="将棋">
   </div>
   <div class="card-content">
     <h3>胡田昌彦が将棋をのんびりやります</h3>
@@ -107,7 +107,7 @@ actions:
 
 <a href="https://soundcloud.com/masahiko-ebisuda" target="_blank" class="card">
   <div class="card-thumbnail">
-    <img src="/images/placeholder.svg" alt="SoundCloud">
+    <img src="/images/soundcloud.png" alt="SoundCloud">
   </div>
   <div class="card-content">
     <h3>SOUNDCLOUD</h3>
