@@ -33,6 +33,16 @@ actions:
 
 <div class="card-grid">
 
+<a href="/videos/" class="card">
+  <div class="card-thumbnail">
+    <img src="/images/youtube-ebibibi.png" alt="動画ライブラリ">
+  </div>
+  <div class="card-content">
+    <h3>動画ライブラリ（855本以上）</h3>
+    <p>Azure, AI, Windows, M365等の全動画をカテゴリ・レベル別に検索・閲覧できます。あなたに合った動画が見つかります。</p>
+  </div>
+</a>
+
 <a href="https://www.youtube.com/@ebibibi" target="_blank" class="card">
   <div class="card-thumbnail">
     <img src="/images/youtube-ebibibi.png" alt="YouTube">

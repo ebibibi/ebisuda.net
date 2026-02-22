@@ -1,0 +1,72 @@
+[
+  {
+    "id": "azure",
+    "name": "Azure",
+    "icon": "☁️",
+    "description": "仮想マシン、ネットワーク、ストレージ、App Service、コンテナ、IaC、Azure Arc等",
+    "color": "#0078D4"
+  },
+  {
+    "id": "ai",
+    "name": "AI・生成AI",
+    "icon": "🤖",
+    "description": "Azure OpenAI、ChatGPT、Claude Code、ローカルLLM、MCP、AIエージェント等",
+    "color": "#7B2D8E"
+  },
+  {
+    "id": "windows",
+    "name": "Windows",
+    "icon": "🪟",
+    "description": "Windows 10/11、Windows Server、Intune、トラブルシューティング等",
+    "color": "#0078D7"
+  },
+  {
+    "id": "m365",
+    "name": "Microsoft 365",
+    "icon": "📧",
+    "description": "Teams、SharePoint、Exchange、M365 Copilot、Power Platform、Excel等",
+    "color": "#D83B01"
+  },
+  {
+    "id": "identity",
+    "name": "ID管理・認証",
+    "icon": "🔐",
+    "description": "Microsoft Entra ID、Active Directory、条件付きアクセス、SSO、証明書等",
+    "color": "#008272"
+  },
+  {
+    "id": "security",
+    "name": "セキュリティ",
+    "icon": "🛡️",
+    "description": "ゼロトラスト、Defender、ネットワークセキュリティ、パケットキャプチャ等",
+    "color": "#E81123"
+  },
+  {
+    "id": "dev",
+    "name": "開発者向け",
+    "icon": "💻",
+    "description": "PowerShell、Python、自動化、Logic Apps等",
+    "color": "#2B579A"
+  },
+  {
+    "id": "beginner",
+    "name": "初心者・入門",
+    "icon": "📚",
+    "description": "PC基礎、Azure入門、クラウド入門等",
+    "color": "#107C10"
+  },
+  {
+    "id": "news",
+    "name": "ニュース・更新情報",
+    "icon": "📰",
+    "description": "Azure/M365更新情報、記事紹介、Build/Ignite等",
+    "color": "#FFB900"
+  },
+  {
+    "id": "other",
+    "name": "その他",
+    "icon": "🎯",
+    "description": "雑談、インタビュー、ツール紹介、キャリア等",
+    "color": "#767676"
+  }
+]
