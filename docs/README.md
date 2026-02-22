@@ -33,13 +33,13 @@ actions:
 
 <div class="card-grid">
 
-<a href="/videos/" class="card">
+<a href="https://ebibibi.github.io/yt-channel-navigator/" target="_blank" class="card">
   <div class="card-thumbnail">
-    <img src="/images/youtube-ebibibi.png" alt="動画ライブラリ">
+    <img src="/images/yt-channel-navigator.png" alt="ナビゲーター">
   </div>
   <div class="card-content">
-    <h3>動画ライブラリ（855本以上）</h3>
-    <p>Azure, AI, Windows, M365等の全動画をカテゴリ・レベル別に検索・閲覧できます。あなたに合った動画が見つかります。</p>
+    <h3>エビちゃんねる ナビゲーター（動画ライブラリ）</h3>
+    <p>全動画をカテゴリ・レベル別に閲覧＆字幕全文検索。キーワードで該当シーンから直接視聴できます。</p>
   </div>
 </a>
 
@@ -50,16 +50,6 @@ actions:
   <div class="card-content">
     <h3>胡田(えびすだ)のコンピューター系チャンネル</h3>
     <p>Windows, Azure, Microsoft 365等を中心としたコンピューター系の情報を動画で発信しています。</p>
-  </div>
-</a>
-
-<a href="https://ebibibi.github.io/yt-channel-navigator/" target="_blank" class="card">
-  <div class="card-thumbnail">
-    <img src="/images/yt-channel-navigator.png" alt="ナビゲーター">
-  </div>
-  <div class="card-content">
-    <h3>エビちゃんねる ナビゲーター</h3>
-    <p>エビちゃんねるの全動画の字幕を検索できるサイトです。キーワードで検索して該当シーンから直接視聴できます。</p>
   </div>
 </a>
 
