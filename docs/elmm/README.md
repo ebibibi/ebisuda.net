@@ -27,6 +27,7 @@ sidebar: false
 |---------|------|
 | YouTube Data API | 動画のアップロード、メタデータの設定、再生リスト管理 |
 | YouTube Analytics API | 動画のパフォーマンス指標の収集・分析 |
+| TikTok Content Posting API | 生成した動画のTikTokへの自動アップロード・公開 |
 | OpenAI API | テキストコンテンツ（テーマ、例文、説明文等）の生成 |
 | Azure Speech Services | テキストから音声への合成（多言語対応） |
 
