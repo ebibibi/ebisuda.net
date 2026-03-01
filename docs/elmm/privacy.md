@@ -6,7 +6,7 @@ sidebar: false
 
 # プライバシーポリシー
 
-最終更新日: 2025年2月3日
+最終更新日: 2026年3月1日
 
 本プライバシーポリシーは、English Learn Movie Maker（以下「本アプリケーション」）における情報の取り扱いについて説明するものです。
 
@@ -18,7 +18,17 @@ sidebar: false
 
 本アプリケーションは、第三者の個人情報を収集・保存・処理しません。
 
-## 3. YouTube APIサービスの利用
+## 3. TikTok APIサービスの利用
+
+本アプリケーションはTikTok Content Posting APIを利用しています。TikTok APIサービスの利用に際しては、[TikTokプライバシーポリシー](https://www.tiktok.com/legal/page/row/privacy-policy/en)が適用されます。
+
+本アプリケーションがTikTok APIを通じてアクセスするデータは以下の通りです。
+
+- **Content Posting API**: 運営者自身のTikTokアカウントへの動画アップロードおよびメタデータの設定
+
+これらのデータは運営者自身のTikTokアカウント運営のためにのみ使用され、第三者と共有されることはありません。
+
+## 4. YouTube APIサービスの利用
 
 本アプリケーションはYouTube APIサービスを利用しています。YouTube APIサービスの利用に際しては、[Google プライバシーポリシー](https://policies.google.com/privacy)が適用されます。
 
@@ -29,18 +39,18 @@ sidebar: false
 
 これらのデータは運営者自身のチャンネル運営の改善のためにのみ使用され、第三者と共有されることはありません。
 
-## 4. その他の外部サービス
+## 5. その他の外部サービス
 
 本アプリケーションは以下の外部サービスを利用しています。各サービスにおけるデータの取り扱いは、それぞれのプライバシーポリシーに従います。
 
 - **OpenAI API**: テキストコンテンツの生成に利用。[OpenAI プライバシーポリシー](https://openai.com/privacy/)
 - **Azure Speech Services**: 音声合成に利用。[Microsoft プライバシーステートメント](https://privacy.microsoft.com/privacystatement)
 
-## 5. データの保管
+## 6. データの保管
 
 本アプリケーションが保管するデータは、動画の生成履歴やYouTube Analyticsから取得したパフォーマンス指標のみであり、すべて運営者のローカル環境に保存されます。第三者の個人情報は含まれません。
 
-## 6. お問い合わせ
+## 7. お問い合わせ
 
 本ポリシーに関するお問い合わせは、以下の連絡先までお願いいたします。
 
