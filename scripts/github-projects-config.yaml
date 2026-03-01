@@ -1,0 +1,100 @@
+# GitHub プロジェクトページ キュレーション設定
+# update_github_projects.py がこのファイルを読んでページを自動再生成する
+# 新規リポジトリを追加したいときはここに手動で追記する
+
+categories:
+  - name: コミュニティ向け OSS
+    repos:
+      - claude-code-discord-bridge
+      - obsidian-cjk-bold-fix
+      - DavinciResolveScripts
+      - ansible-hyperv
+      - m365management
+      - AzureManagement
+      - youtubebicep
+
+  - name: Webサービス・アプリ
+    repos:
+      - nearjam
+      - process_skyblue
+      - ffmpeg-multistream-azure
+      - restreamer-azure
+      - discord-bot
+      - web-change-line-notifier
+      - ebiyoutubeguide
+      - diary
+      - ebisuda.net
+
+  - name: ツール・スクリプト
+    repos:
+      - video2srt
+      - dify-azure-terraform
+      - azureguestconfig
+      - InstallBasicToolsToWindows
+
+  - name: デモ・登壇資料
+    repos:
+      - Demos
+      - presentations
+      - youtubedemo
+
+# 既知の除外リポジトリ（フォーク・テスト・不完全なもの）
+# 新規リポジトリ検出時の通知から除外するリストでもある
+ignore:
+  - aks-gitops-demo
+  - app-service-web-html-get-started
+  - ASDKDeployment
+  - auto-editor-frontend
+  - azure-arc-jumpstart-apps
+  - azure-content-jajp
+  - azure-docs
+  - azure-docs.ja-jp
+  - azure-iot-sdk-python
+  - azure-management-docs
+  - azure-notificationhubs-android
+  - azure-quickstart-templates
+  - azure-stack-docs
+  - azurechatgpt
+  - AzureCICDEnvironments
+  - AzureImageBuilder
+  - AzureNotificationHubDemo
+  - AzureResourceManager_Deply_Multiple_Windows_VMs
+  - azurestack
+  - AzureStackPowerShell
+  - azure_arc
+  - Azure_AzureStack_Container_HandsOn
+  - BuildingMicrosoftTemsIntegrationsAndWorkflowsDemos
+  - business-process-automation
+  - connectAzureStackERCS
+  - containerstudy
+  - cosmos-dotnet-core-todo-app
+  - dify-azure-appservice
+  - get-last-signin-reports
+  - hccjp
+  - hccjp_AIAgent_Demo
+  - jumpstart-agora-apps
+  - kubernetes-engine-samples
+  - lighthouse
+  - links
+  - microservices-demo
+  - NestedAzSHCITest
+  - obsidian-releases
+  - obsidian-zola
+  - PartnerCenterManagements
+  - pcs-cli
+  - projecttemplate
+  - s2dworks
+  - stable-diffusion-for-lowramgpu-wsl2
+  - stable_diffusion.openvino
+  - staticwebapptest
+  - test
+  - TestAzureStackAtERCS
+  - time-card-static-web
+  - TimeLog
+  - ubuntu_ansible
+  - vision-ai-developer-kit-audio
+  - windowsserverdocs
+  - wordpress-cocoon
+  - xmrig
+  - youtubemanagement
+  - YoutubeManagementAPIs
