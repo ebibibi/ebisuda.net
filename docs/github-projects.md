@@ -8,50 +8,52 @@ sidebar: false
 
 胡田昌彦が公開しているGitHubリポジトリです。主要な自作プロダクト・ツール・スクリプトをまとめています。
 
+<small>最終更新: 2026-03-01（自動更新）</small>
+
 <div class="github-projects">
 
 ## コミュニティ向け OSS
 
 | リポジトリ | 説明 | 言語 |
 |:-----------|:-----|:-----|
-| [claude-code-discord-bridge](https://github.com/ebibibi/claude-code-discord-bridge) ⭐9 | Discord × Claude Code OSSフレームワーク。DiscordのスレッドからClaude Codeとチャットできます | Python |
-| [obsidian-cjk-bold-fix](https://github.com/ebibibi/obsidian-cjk-bold-fix) ⭐1 | ObsidianのライブプレビューモードでCJK（中国語・日本語・韓国語）の太字・斜体レンダリングを修正するプラグイン | TypeScript |
-| [DavinciResolveScripts](https://github.com/ebibibi/DavinciResolveScripts) ⭐3 | DaVinci Resolve用のスクリプト集 | Python |
-| [ansible-hyperv](https://github.com/ebibibi/ansible-hyperv) ⭐2 | HyperV上にVMをプロビジョニングするAnsible Playbookサンプル | PowerShell |
-| [m365management](https://github.com/ebibibi/m365management) ⭐2 | Microsoft 365管理用スクリプト集 | PowerShell |
-| [AzureManagement](https://github.com/ebibibi/AzureManagement) ⭐2 | Azure管理用スクリプト集 | PowerShell |
-| [youtubebicep](https://github.com/ebibibi/youtubebicep) ⭐1 | YouTubeで紹介したAzure Bicepテンプレート集 | Bicep |
+| [claude-code-discord-bridge](https://github.com/ebibibi/claude-code-discord-bridge) ⭐9 | Discord frontend for Claude Code CLI - chat with Claude Code via Discord threads | Python |
+| [obsidian-cjk-bold-fix](https://github.com/ebibibi/obsidian-cjk-bold-fix) ⭐1 | Obsidian plugin: Fixes CJK (Chinese/Japanese/Korean) bold and italic rendering in Live Preview mode | TypeScript |
+| [DavinciResolveScripts](https://github.com/ebibibi/DavinciResolveScripts) ⭐3 | （説明なし） | Python |
+| [ansible-hyperv](https://github.com/ebibibi/ansible-hyperv) ⭐2 | Sample Ansible Playbook to provision VM on HyperV | PowerShell |
+| [m365management](https://github.com/ebibibi/m365management) ⭐2 | （説明なし） | PowerShell |
+| [AzureManagement](https://github.com/ebibibi/AzureManagement) ⭐2 | （説明なし） | PowerShell |
+| [youtubebicep](https://github.com/ebibibi/youtubebicep) ⭐1 | （説明なし） | Bicep |
 
 ## Webサービス・アプリ
 
 | リポジトリ | 説明 | 言語 |
 |:-----------|:-----|:-----|
-| [nearjam](https://github.com/ebibibi/nearjam) | ジャムセッションを探せる・開催できる2サイドプラットフォーム。ミュージシャンと会場をつなぎます | TypeScript |
-| [process_skyblue](https://github.com/ebibibi/process_skyblue) | BlueSkyの投稿をX（Twitter）とDiscordにクロスポストするDockerコンテナサービス | Python |
-| [ffmpeg-multistream-azure](https://github.com/ebibibi/ffmpeg-multistream-azure) | Azure Container Instances上でffmpegを使いYouTube/Facebook/X/LinkedInへRTMP同時配信 | Shell |
-| [restreamer-azure](https://github.com/ebibibi/restreamer-azure) | Azure Container InstancでRestreamerをオンデマンド実行するRTMP再配信環境 | Shell |
-| [discord-bot](https://github.com/ebibibi/discord-bot) | 個人用Discord Bot（EbiBot）。Push通知・Watchdog機能を持つ常駐Bot | Python |
-| [web-change-line-notifier](https://github.com/ebibibi/web-change-line-notifier) | Webサイトの変更を検知してLINEに通知するツール | Python |
-| [ebiyoutubeguide](https://github.com/ebibibi/ebiyoutubeguide) | YouTubeチャンネル向けガイドサイト | TypeScript |
-| [diary](https://github.com/ebibibi/diary) | えび日記サイト（[diary.ebisuda.net](https://diary.ebisuda.net)） | HTML |
-| [ebisuda.net](https://github.com/ebibibi/ebisuda.net) | このWebサイトのソースコード。VuePress + Azure Static Web Apps | Python |
+| [nearjam](https://github.com/ebibibi/nearjam) | NearJam — Find jam sessions near you. A two-sided platform connecting musicians with local venues. | TypeScript |
+| [process_skyblue](https://github.com/ebibibi/process_skyblue) | BlueSky to X (Twitter) and Discord cross-posting service running as a Docker container | Python |
+| [ffmpeg-multistream-azure](https://github.com/ebibibi/ffmpeg-multistream-azure) | RTMP multi-streaming to YouTube/Facebook/X/LinkedIn via ffmpeg on Azure Container Instances | Shell |
+| [restreamer-azure](https://github.com/ebibibi/restreamer-azure) | Run Restreamer on Azure Container Instances (ACI) for on-demand RTMP restreaming | Shell |
+| [discord-bot](https://github.com/ebibibi/discord-bot) | EbiBot - Personal Discord Bot | Python |
+| [web-change-line-notifier](https://github.com/ebibibi/web-change-line-notifier) | Webサイトの変更を検知してLINEに通知します | Python |
+| [ebiyoutubeguide](https://github.com/ebibibi/ebiyoutubeguide) | （説明なし） | TypeScript |
+| [diary](https://github.com/ebibibi/diary) | （説明なし） | HTML |
+| [ebisuda.net](https://github.com/ebibibi/ebisuda.net) | （説明なし） | Python |
 
 ## ツール・スクリプト
 
 | リポジトリ | 説明 | 言語 |
 |:-----------|:-----|:-----|
-| [video2srt](https://github.com/ebibibi/video2srt) | 動画ファイルからSRT字幕ファイルを生成するツール | Python |
-| [dify-azure-terraform](https://github.com/ebibibi/dify-azure-terraform) | DifyをAzureにデプロイするTerraformテンプレート | HCL |
-| [azureguestconfig](https://github.com/ebibibi/azureguestconfig) | Azure Guest Configurationのサンプル集 | PowerShell |
-| [InstallBasicToolsToWindows](https://github.com/ebibibi/InstallBasicToolsToWindows) | Windowsクライアント・サーバーに基本ツールをインストールするスクリプト | PowerShell |
+| [video2srt](https://github.com/ebibibi/video2srt) | create srt file from movie file. / 動画ファイルからSRTファイルを作成します。 | Python |
+| [dify-azure-terraform](https://github.com/ebibibi/dify-azure-terraform) | （説明なし） | HCL |
+| [azureguestconfig](https://github.com/ebibibi/azureguestconfig) | （説明なし） | PowerShell |
+| [InstallBasicToolsToWindows](https://github.com/ebibibi/InstallBasicToolsToWindows) | Install basic tools(for me) to windows client and server. | PowerShell |
 
 ## デモ・登壇資料
 
 | リポジトリ | 説明 | 言語 |
 |:-----------|:-----|:-----|
-| [Demos](https://github.com/ebibibi/Demos) | 各種デモを管理するリポジトリ | Bicep |
-| [presentations](https://github.com/ebibibi/presentations) | 登壇・発表で使ったプレゼン資料 | HTML |
-| [youtubedemo](https://github.com/ebibibi/youtubedemo) | [YouTubeチャンネル](https://www.youtube.com/@ebibibi)でデモした際に使ったコード集 | Python |
+| [Demos](https://github.com/ebibibi/Demos) | 各種のDemoを管理するレポジトリです。 | Bicep |
+| [presentations](https://github.com/ebibibi/presentations) | （説明なし） | HTML |
+| [youtubedemo](https://github.com/ebibibi/youtubedemo) | https://www.youtube.com/@ebibibi/でデモした際に使ったコードです。 | Python |
 
 </div>
 
