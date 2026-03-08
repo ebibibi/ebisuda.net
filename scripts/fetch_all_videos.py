@@ -22,7 +22,7 @@ from googleapiclient.discovery import build
 CHANNEL_ID = "UCn_7IV61pGOfoiC5Lc8nHUw"
 OBSIDIAN_SCRIPTS = Path("/home/ebi/obsidian/scripts")
 OUTPUT_DIR = Path(__file__).resolve().parent.parent / "data"
-OBSIDIAN_VIDEOS_DIR = Path("/home/ebi/obsidian/05_Resources/YouTube動画")
+OBSIDIAN_VIDEOS_DIR = Path("/home/ebi/obsidian/03_Resources/YouTube動画")
 
 OAUTH_SCOPES = [
     "https://www.googleapis.com/auth/youtube.readonly",
