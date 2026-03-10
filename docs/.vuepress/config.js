@@ -19,7 +19,7 @@ export default defineUserConfig({
       s.parentNode.insertBefore(g,s);
       g.onload=function(){
         window.chatwootSDK.run({
-          websiteToken: '2GE16WFbEJ9p7aoBc2JhnvYw',
+          websiteToken: 'PaDnD4T2wrMmcNM5cx1YWibW',
           baseUrl: BASE_URL
         })
       }
