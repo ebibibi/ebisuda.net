@@ -11,6 +11,19 @@ export default defineUserConfig({
   head: [
     ['meta', { name: 'theme-color', content: '#3a7bd5' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+    ['script', {}, `(function(d,t) {
+      var BASE_URL="https://moviegen.tail954a8f.ts.net";
+      var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src=BASE_URL+"/packs/js/sdk.js";
+      g.async = true;
+      s.parentNode.insertBefore(g,s);
+      g.onload=function(){
+        window.chatwootSDK.run({
+          websiteToken: '2GE16WFbEJ9p7aoBc2JhnvYw',
+          baseUrl: BASE_URL
+        })
+      }
+    })(document,"script");`],
   ],
 
   theme: defaultTheme({
