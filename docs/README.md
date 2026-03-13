@@ -93,6 +93,16 @@ actions:
   </div>
 </a>
 
+<a href="https://speakerdeck.com/ebibibi" target="_blank" class="card">
+  <div class="card-thumbnail card-thumbnail-github">
+    <svg viewBox="0 0 24 24" fill="currentColor" width="80" height="80"><path d="M12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11-4.925 11-11S18.075 1 12 1zm-1.5 15.5v-9L16 12l-5.5 4.5z"/></svg>
+  </div>
+  <div class="card-content">
+    <h3>Speaker Deck（登壇スライド）</h3>
+    <p>勉強会やイベントで登壇した際のスライドを公開しています。</p>
+  </div>
+</a>
+
 <a href="https://diary.ebisuda.net" target="_blank" class="card">
   <div class="card-thumbnail">
     <img src="/images/diary.png" alt="日記">
