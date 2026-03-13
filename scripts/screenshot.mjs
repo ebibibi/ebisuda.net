@@ -16,6 +16,7 @@ const sites = [
   { url: 'https://www.youtube.com/channel/UCgKek_Bu1t_gJ83ABfLBwBQ', name: 'youtube-music.png' },
   { url: 'https://www.youtube.com/channel/UCb2h5Jqh3SWOVwV8AUUgPpw', name: 'youtube-shogi.png' },
   { url: 'https://soundcloud.com/masahiko-ebisuda', name: 'soundcloud.png' },
+  { url: 'https://speakerdeck.com/ebibibi', name: 'speakerdeck.png' },
 ];
 
 async function takeScreenshots() {

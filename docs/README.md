@@ -94,8 +94,8 @@ actions:
 </a>
 
 <a href="https://speakerdeck.com/ebibibi" target="_blank" class="card">
-  <div class="card-thumbnail card-thumbnail-github">
-    <svg viewBox="0 0 24 24" fill="currentColor" width="80" height="80"><path d="M12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11-4.925 11-11S18.075 1 12 1zm-1.5 15.5v-9L16 12l-5.5 4.5z"/></svg>
+  <div class="card-thumbnail">
+    <img src="/images/speakerdeck.png" alt="Speaker Deck">
   </div>
   <div class="card-content">
     <h3>Speaker Deck（登壇スライド）</h3>
