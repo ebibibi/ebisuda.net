@@ -161,16 +161,6 @@ actions:
   </div>
 </a>
 
-<a href="https://github.com/ebibibi/restreamer-azure" target="_blank" class="card">
-  <div class="card-thumbnail">
-    <img src="/images/oss-restreamer-azure.png" alt="restreamer-azure">
-  </div>
-  <div class="card-content">
-    <h3>restreamer-azure</h3>
-    <p>Azure Container InstancesでRestreamerを必要な時だけ起動。設定は自動バックアップ・リストア。</p>
-  </div>
-</a>
-
 <a href="https://github.com/ebibibi/ansible-hyperv" target="_blank" class="card">
   <div class="card-thumbnail">
     <img src="/images/oss-ansible-hyperv.png" alt="ansible-hyperv">

@@ -22,7 +22,6 @@ const sites = [
   { url: 'https://github.com/ebibibi/process_skyblue', name: 'oss-process-skyblue.png' },
   { url: 'https://github.com/ebibibi/obsidian-cjk-bold-fix', name: 'oss-obsidian-cjk-bold-fix.png' },
   { url: 'https://github.com/ebibibi/ffmpeg-multistream-azure', name: 'oss-ffmpeg-multistream.png' },
-  { url: 'https://github.com/ebibibi/restreamer-azure', name: 'oss-restreamer-azure.png' },
   { url: 'https://github.com/ebibibi/ansible-hyperv', name: 'oss-ansible-hyperv.png' },
 ];
 
