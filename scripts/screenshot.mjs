@@ -17,6 +17,13 @@ const sites = [
   { url: 'https://www.youtube.com/channel/UCb2h5Jqh3SWOVwV8AUUgPpw', name: 'youtube-shogi.png' },
   { url: 'https://soundcloud.com/masahiko-ebisuda', name: 'soundcloud.png' },
   { url: 'https://speakerdeck.com/ebibibi', name: 'speakerdeck.png' },
+  { url: 'https://github.com/ebibibi/claude-code-discord-bridge', name: 'oss-ccdb.png' },
+  { url: 'https://github.com/ebibibi/marp2pptx', name: 'oss-marp2pptx.png' },
+  { url: 'https://github.com/ebibibi/process_skyblue', name: 'oss-process-skyblue.png' },
+  { url: 'https://github.com/ebibibi/obsidian-cjk-bold-fix', name: 'oss-obsidian-cjk-bold-fix.png' },
+  { url: 'https://github.com/ebibibi/ffmpeg-multistream-azure', name: 'oss-ffmpeg-multistream.png' },
+  { url: 'https://github.com/ebibibi/restreamer-azure', name: 'oss-restreamer-azure.png' },
+  { url: 'https://github.com/ebibibi/ansible-hyperv', name: 'oss-ansible-hyperv.png' },
 ];
 
 async function takeScreenshots() {
