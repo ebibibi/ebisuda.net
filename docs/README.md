@@ -31,6 +31,8 @@ actions:
   </a>
 </div>
 
+<h2 class="section-heading">技術発信</h2>
+
 <div class="card-grid">
 
 <a href="https://ebibibi.github.io/yt-channel-navigator/" target="_blank" class="card">
@@ -63,26 +65,6 @@ actions:
   </div>
 </a>
 
-<a href="https://amzn.to/3PvYqWG" target="_blank" class="card">
-  <div class="card-thumbnail">
-    <img src="/images/amazon-book.png" alt="書籍">
-  </div>
-  <div class="card-content">
-    <h3>【書籍】Windows インフラ管理者入門</h3>
-    <p>2014年2月に書籍を単著で出版しました。</p>
-  </div>
-</a>
-
-<a href="https://mvp.microsoft.com/ja-JP/mvp/profile/959007f9-3c9a-e411-93f2-9cb65495d3c4" target="_blank" class="card">
-  <div class="card-thumbnail">
-    <img src="/images/mvp.png" alt="MVP">
-  </div>
-  <div class="card-content">
-    <h3>Microsoft MVP プロファイル</h3>
-    <p>胡田昌彦は2014年からMicrosoft MVPを10年以上連続受賞しています。</p>
-  </div>
-</a>
-
 <a href="https://note.com/ebibibi" target="_blank" class="card">
   <div class="card-thumbnail">
     <img src="/images/note.png" alt="note">
@@ -103,45 +85,31 @@ actions:
   </div>
 </a>
 
-<a href="https://diary.ebisuda.net" target="_blank" class="card">
+<a href="https://amzn.to/3PvYqWG" target="_blank" class="card">
   <div class="card-thumbnail">
-    <img src="/images/diary.png" alt="日記">
+    <img src="/images/amazon-book.png" alt="書籍">
   </div>
   <div class="card-content">
-    <h3>えび日記</h3>
-    <p>昔からずっと書いている日記です。日々の出来事や思ったことなどを書いています。</p>
+    <h3>【書籍】Windows インフラ管理者入門</h3>
+    <p>2014年2月に書籍を単著で出版しました。</p>
   </div>
 </a>
 
-<a href="https://www.youtube.com/channel/UCgKek_Bu1t_gJ83ABfLBwBQ" target="_blank" class="card">
+<a href="https://mvp.microsoft.com/ja-JP/mvp/profile/959007f9-3c9a-e411-93f2-9cb65495d3c4" target="_blank" class="card">
   <div class="card-thumbnail">
-    <img src="/images/youtube-music.png" alt="音楽">
+    <img src="/images/mvp.png" alt="MVP">
   </div>
   <div class="card-content">
-    <h3>胡田昌彦の音楽チャンネル</h3>
-    <p>自分の音楽の成長記録を記録しているチャンネルです。エレキベース、ドラム、自作曲など。</p>
+    <h3>Microsoft MVP プロファイル</h3>
+    <p>胡田昌彦は2014年からMicrosoft MVPを10年以上連続受賞しています。</p>
   </div>
 </a>
 
-<a href="https://www.youtube.com/channel/UCb2h5Jqh3SWOVwV8AUUgPpw" target="_blank" class="card">
-  <div class="card-thumbnail">
-    <img src="/images/youtube-shogi.png" alt="将棋">
-  </div>
-  <div class="card-content">
-    <h3>胡田昌彦が将棋をのんびりやります</h3>
-    <p>将棋は趣味としてのんびり毎日やってます。その様子を動画に記録しています。</p>
-  </div>
-</a>
+</div>
 
-<a href="https://soundcloud.com/masahiko-ebisuda" target="_blank" class="card">
-  <div class="card-thumbnail">
-    <img src="/images/soundcloud.png" alt="SoundCloud">
-  </div>
-  <div class="card-content">
-    <h3>SOUNDCLOUD</h3>
-    <p>作曲した曲はSOUNDCLOUDで公開しています。</p>
-  </div>
-</a>
+<h2 class="section-heading">OSS・開発プロジェクト</h2>
+
+<div class="card-grid">
 
 <a href="https://github.com/ebibibi/claude-code-discord-bridge" target="_blank" class="card">
   <div class="card-thumbnail">
@@ -220,6 +188,52 @@ actions:
   <div class="card-content">
     <h3>GitHub プロジェクト一覧</h3>
     <p>上記以外も含む全OSSプロジェクトの一覧です。</p>
+  </div>
+</a>
+
+</div>
+
+<h2 class="section-heading">趣味・日常</h2>
+
+<div class="card-grid">
+
+<a href="https://diary.ebisuda.net" target="_blank" class="card">
+  <div class="card-thumbnail">
+    <img src="/images/diary.png" alt="日記">
+  </div>
+  <div class="card-content">
+    <h3>えび日記</h3>
+    <p>昔からずっと書いている日記です。日々の出来事や思ったことなどを書いています。</p>
+  </div>
+</a>
+
+<a href="https://www.youtube.com/channel/UCgKek_Bu1t_gJ83ABfLBwBQ" target="_blank" class="card">
+  <div class="card-thumbnail">
+    <img src="/images/youtube-music.png" alt="音楽">
+  </div>
+  <div class="card-content">
+    <h3>胡田昌彦の音楽チャンネル</h3>
+    <p>自分の音楽の成長記録を記録しているチャンネルです。エレキベース、ドラム、自作曲など。</p>
+  </div>
+</a>
+
+<a href="https://www.youtube.com/channel/UCb2h5Jqh3SWOVwV8AUUgPpw" target="_blank" class="card">
+  <div class="card-thumbnail">
+    <img src="/images/youtube-shogi.png" alt="将棋">
+  </div>
+  <div class="card-content">
+    <h3>胡田昌彦が将棋をのんびりやります</h3>
+    <p>将棋は趣味としてのんびり毎日やってます。その様子を動画に記録しています。</p>
+  </div>
+</a>
+
+<a href="https://soundcloud.com/masahiko-ebisuda" target="_blank" class="card">
+  <div class="card-thumbnail">
+    <img src="/images/soundcloud.png" alt="SoundCloud">
+  </div>
+  <div class="card-content">
+    <h3>SOUNDCLOUD</h3>
+    <p>作曲した曲はSOUNDCLOUDで公開しています。</p>
   </div>
 </a>
 
